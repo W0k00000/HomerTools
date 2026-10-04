@@ -33,6 +33,9 @@
   <li>Enter the project folder:</li>
   <pre>cd HomerTools</pre>
 
+  <li>Install Requiments:</li>
+  <pre>pip install requiments.txt</pre>
+  
   <li>Launch the tool:</li>
   - Windows:
   <pre>python HomerTools.py or lunch : start.bat</pre>
