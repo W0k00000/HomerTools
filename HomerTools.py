@@ -44,11 +44,16 @@ def menu() -> None:
 
                                     1. Multi Tools
                                     2. Baize Ta mère
+                                    3. Discord
 
     """)
 
     choix = input("Met ton choix : ")
     son_selection()
+
+    if choix == "3":
+        dc = "https://discord.gg/mPEFRA3e"
+        webbrowser.open(dc)
 
     if choix == "2":
         bombe()
