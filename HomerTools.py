@@ -86,9 +86,9 @@ def menu() -> None:
                                                        ===== TOOLS =====
 
                                             
-                                            1. USERNAME LOOKUP      4. Programe Searcher
+                                            1. OSINT                4. Programe Searcher
 
-                                            2. DOX                  5. Github Checker
+                                            2. USERNAME LOOKUP      5. Github Checker
 
                                             3. Youtube Searcher     6. MDP Generator
                
