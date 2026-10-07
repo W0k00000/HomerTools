@@ -99,10 +99,10 @@ def menu() -> None:
                 Choisis un tools : """)
 
         if choix2 == "1":
-            username_lookup()
+            dox()
 
         elif choix2 == "2":
-            dox()
+            username_lookup()
 
         elif choix2 == "3":
             youtube_searcher()
