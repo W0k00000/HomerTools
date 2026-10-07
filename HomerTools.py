@@ -90,7 +90,7 @@ def menu() -> None:
 
                                             2. DOX                  5. Github Checker
 
-                                            3. Youtube Searcher
+                                            3. Youtube Searcher     6. MDP Generator
                
                 
                 
@@ -112,6 +112,9 @@ def menu() -> None:
 
         elif choix2 == "5":
             githuhchecker()
+
+        elif choix2 == "6":
+            mdp_generator()
 
 
 def run() -> None:
