@@ -38,7 +38,7 @@
   
   <li>Launch the tool:</li>
   - Windows:
-  <pre>python HomerTools.py or lunch : start.bat</pre>
+  <pre>python HomerTools.py </pre>
   - Linux:
   <pre>python3 HomerTools.py</pre>
 </ol
