@@ -34,7 +34,7 @@
   <pre>cd HomerTools</pre>
 
   <li>Install Requiments:</li>
-  <pre>pip install requiments.txt</pre>
+  <pre>pip install -r requiments.txt</pre>
   
   <li>Launch the tool:</li>
   - Windows:
