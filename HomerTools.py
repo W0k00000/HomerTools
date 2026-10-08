@@ -52,7 +52,7 @@ def menu() -> None:
     son_selection()
 
     if choix == "3":
-        dc = "https://discord.gg/mPEFRA3e"
+        dc = "https://discord.gg/puqSWQQcDU"
         webbrowser.open(dc)
 
     if choix == "2":
